@@ -1,4 +1,4 @@
-# <a href="https://www.battleaxe.co/"><img src="https://avatars2.githubusercontent.com/u/60149336?s=200&v=4" width="40" height="40"/></a> bombino-brutalism-basic
+# <a href="https://www.battleaxe.co/"><img src="https://avatars2.githubusercontent.com/u/60149336?s=200&v=4" width="40" height="40"/></a> bombino-brutalism-router
 
 | [Installation](#installation) | [Getting Started](#getting-started) | [Features](#features) | [Commands](#commands) | [Contexts](#contexts) | [Use in Browser](#use-in-browser) | [Common Errors](#common-errors) | 
 | ----------------------------- | :---------------------------: | :---------------------------------: | :---------------------: | :-------------------: | :-------------------: | :-------------------: |
@@ -32,7 +32,7 @@ bombino
 # Input the name of panel
 # > Bombino (if local templates are present)
 # > Vue-CLI
-# > bombino-brutalism-basic
+# > bombino-brutalism-router
 # Input a valid localhost port
 # > Select Y to use npm install
 
