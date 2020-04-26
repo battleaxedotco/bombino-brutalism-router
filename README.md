@@ -7,7 +7,7 @@
 
 > Left to right: Illustrator, Browser, After Effects
 
-## [See the live web demo of this panel here](https://xenodochial-knuth-23208d.netlify.app/#/brutalism-router)
+## [See the live web demo of this panel here](https://brutalism.netlify.app/#/router)
 
 ## Installation
 
@@ -50,7 +50,7 @@ npm run serve
 - [bombino](https://github.com/Inventsable/bombino) as dev tooling and workflow
 - Paginations via [Vue Router](https://router.vuejs.org/)
 - Full typescript support for any app with pravdomil's Adobe types (same as writing .jsx scripts but access to host DOM as autocomplete while typing)
-- Battleaxe's own [brutalism component library](https://github.com/Inventsable/brutalism) and design
+- Battleaxe's own [brutalism component library](https://github.com/battleaxedotco/brutalism) and design
 - Various utility functions and components for ease of panel development
 - ✨ [All color themes of any host app automatically handled by starlette library](https://github.com/Inventsable/starlette) ✨
 
@@ -129,7 +129,7 @@ configureWebpack: {
 
 ### I don't want my scripts in the `./src/` directory
 
-- You can easily define script and utility script location to be anywhere in your directory [via Panel script-path and utils props](https://github.com/Inventsable/brutalism/tree/master/components/Panel)
+- You can easily define script and utility script location to be anywhere in your directory [via Panel script-path and utils props](https://github.com/battleaxedotco/brutalism/tree/master/components/Panel)
 
 ### I want to make my ZXP/build size smaller
 
