@@ -7,7 +7,7 @@
 
 > Left to right: Illustrator, Browser, After Effects
 
-## [See the live web demo of this panel here](https://xenodochial-knuth-23208d.netlify.app/#/brutalism-basic)
+## [See the live web demo of this panel here](https://xenodochial-knuth-23208d.netlify.app/#/brutalism-router)
 
 ## Installation
 
