@@ -1,8 +1,8 @@
 module.exports = {
   publicPath: "./",
   configureWebpack: {
-    // target: "node-webkit",
-    // node: false
+    target: "node-webkit",
+    node: false
   },
   lintOnSave: false
 };
