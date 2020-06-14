@@ -13,7 +13,6 @@
     "help": "bombino-cmd help"
   },
   "dependencies": {
-    "bombino-commands": "^1.0.4",
     "brutalism": "^1.6.9",
     "cep-spy": "^1.1.4",
     "cluecumber": "0.0.42",
@@ -28,6 +27,7 @@
     "@vue/cli-plugin-eslint": "^4.0.0",
     "@vue/cli-service": "^4.0.0",
     "babel-eslint": "^10.0.1",
+    "bombino-commands": "^1.0.4",
     "boxen": "^4.1.0",
     "chalk": "^2.4.2",
     "eslint": "^5.16.0",
