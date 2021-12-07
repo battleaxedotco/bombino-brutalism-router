@@ -75,7 +75,7 @@
     https://github.com/Adobe-CEP/CEP-Resources/tree/master/CEP_9.x
 */
 
-import { evalScript } from "workaround";
+import { evalScript } from "brutalism";
 export default {
   data: () => ({
     routes: [
