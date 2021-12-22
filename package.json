@@ -15,13 +15,11 @@
   "dependencies": {
     "brutalism": "^2.3.0",
     "cep-spy": "latest",
-    "cluecumber": "latest",
+    "cluecumber": "0.0.8",
     "core-js": "^3.1.2",
-    "lokney": "latest",
     "starlette": "latest",
     "vue": "^2.6.10",
-    "vue-router": "^3.1.6",
-    "workaround": "latest"
+    "vue-router": "^3.1.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
